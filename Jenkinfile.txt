@@ -1,4 +1,3 @@
-node {
-	stage "checkout scm"
-	
+node{
+	echo 'Hello World'
 }
